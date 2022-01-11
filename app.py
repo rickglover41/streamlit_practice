@@ -6,7 +6,7 @@ import numpy as np
 import plotly.express as px
 import pickle
 
-st.title("My First Dashboard - Restaurant Visitors")
+st.title("My First Dashboard - Japanese Restaurant Visitors")
 
 url = r'https://raw.githubusercontent.com/JonathanBechtel/dat-11-15/main/ClassMaterial/Unit1/data/master.csv'
 
